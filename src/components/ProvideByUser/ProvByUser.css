@@ -1,0 +1,28 @@
+.feature {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 40px 80px;
+}
+
+.feature .box {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.feature .box .fe-box {
+  width: 180px;
+  text-align: center;
+  padding: 25px 0px 25px 15px;
+  box-shadow: 20px 20px 34px rgb(0, 0, 0, 0.03);
+  border: 1px solid #cce7d0;
+  border-radius: 4px;
+  margin: 15px 0;
+}
+
+.feature .box .fe-box:hover {
+  box-shadow: 10px 10px 54px rgba(4, 2, 51, 0.3);
+}
