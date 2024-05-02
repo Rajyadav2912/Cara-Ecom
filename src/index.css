@@ -49,3 +49,20 @@ p {
 .section-p1 {
   padding: 40px 80px;
 }
+
+.product {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 40px 80px;
+}
+
+.product .pro-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  flex-wrap: wrap;
+}

@@ -1,14 +1,14 @@
 import React from "react";
-// import "../FeatureProduct/FeatureProduct.css";
-import data from "../../data";
+import "../NewArrival/NewArrivals.css";
 import Card from "../Card/Card";
+import data from "../../data";
 
-const FeatureProduct = () => {
-  const product = data.product.men;
+const NewArrivals = () => {
+  const product = data.product.women;
 
   return (
     <div className="product">
-      <h2 className="mx-auto font-semibold"> Featured Products</h2>
+      <h2 className="mx-auto font-semibold"> New Arrivals</h2>
       <p>Summer Collection New Morden Design</p>
       <div className="pro-container">
         {product.map((value, index) => {
@@ -28,4 +28,4 @@ const FeatureProduct = () => {
   );
 };
 
-export default FeatureProduct;
+export default NewArrivals;

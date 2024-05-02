@@ -113,26 +113,6 @@ const data = {
           "The Gildan Ultra Cotton T-shirt is made form a substantial 6.0 oz. per Lorem ipsum dolor sit amet consectetur adipisicing elit. Et cumque facilis architecto quis corrupti doloribus, nihil unde necessitatibus neque perferendis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolorem maiores accusantium doloremque animi necessitatibus quidem alias, sit nam velit!",
         image: m8,
       },
-      {
-        id: "m9",
-        brand: "addidas",
-        title: "Men's Fashion T-Shirt",
-        rating: "4.6",
-        price: "65.00",
-        description:
-          "The Gildan Ultra Cotton T-shirt is made form a substantial 6.0 oz. per Lorem ipsum dolor sit amet consectetur adipisicing elit. Et cumque facilis architecto quis corrupti doloribus, nihil unde necessitatibus neque perferendis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolorem maiores accusantium doloremque animi necessitatibus quidem alias, sit nam velit!",
-        image: m9,
-      },
-      {
-        id: "m10",
-        brand: "addidas",
-        title: "Men's Fashion T-Shirt",
-        rating: "4.0",
-        price: "70.00",
-        description:
-          "The Gildan Ultra Cotton T-shirt is made form a substantial 6.0 oz. per Lorem ipsum dolor sit amet consectetur adipisicing elit. Et cumque facilis architecto quis corrupti doloribus, nihil unde necessitatibus neque perferendis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolorem maiores accusantium doloremque animi necessitatibus quidem alias, sit nam velit!",
-        image: m10,
-      },
     ],
     women: [
       {
@@ -194,6 +174,26 @@ const data = {
         description:
           "The Gildan Ultra Cotton T-shirt is made form a substantial 6.0 oz. per Lorem ipsum dolor sit amet consectetur adipisicing elit. Et cumque facilis architecto quis corrupti doloribus, nihil unde necessitatibus neque perferendis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolorem maiores accusantium doloremque animi necessitatibus quidem alias, sit nam velit!",
         image: f6,
+      },
+      {
+        id: "w7",
+        brand: "addidas",
+        title: "Women's Fashion T-Shirt",
+        rating: "4.6",
+        price: "65.00",
+        description:
+          "The Gildan Ultra Cotton T-shirt is made form a substantial 6.0 oz. per Lorem ipsum dolor sit amet consectetur adipisicing elit. Et cumque facilis architecto quis corrupti doloribus, nihil unde necessitatibus neque perferendis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolorem maiores accusantium doloremque animi necessitatibus quidem alias, sit nam velit!",
+        image: m9,
+      },
+      {
+        id: "w8",
+        brand: "addidas",
+        title: "Women's Fashion T-Shirt",
+        rating: "4.0",
+        price: "70.00",
+        description:
+          "The Gildan Ultra Cotton T-shirt is made form a substantial 6.0 oz. per Lorem ipsum dolor sit amet consectetur adipisicing elit. Et cumque facilis architecto quis corrupti doloribus, nihil unde necessitatibus neque perferendis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolorem maiores accusantium doloremque animi necessitatibus quidem alias, sit nam velit!",
+        image: m10,
       },
     ],
   },
